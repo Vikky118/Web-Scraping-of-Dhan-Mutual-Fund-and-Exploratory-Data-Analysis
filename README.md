@@ -1,0 +1,3 @@
+Web scraping was performed on the Dhan trading platform using Selenium to handle dynamically loaded web elements. The automation workflow involved browser control, element inspection, and data extraction from interactive components. 
+The scraped data was processed using Python to remove inconsistencies and convert it into an analysis-ready format, enabling exploratory data analysis and predictive modeling.
+Selenium was used to automate browser interactions and extract real-time stock market information. The collected data was then cleaned, structured, and stored for further analysis, visualization, and machine learning applications.
